@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Mallanna&display=swap');
+
+.content{
+    display: flex;
+    position: relative;
+}
+body{
+    background: linear-gradient(135deg, #91d7e9, #a2ffff);
+    font-size: 24px;
+    margin: 40px;
+    font-family: Mallanna;
+}
+.side2{
+    margin-left: 40px;
+}
+h1, h2{
+    text-align: center;
+}
+img{
+    box-shadow: 10px 10px 6px 2px #333333;
+}
+button{
+    border: 1px solid #21474d;
+    border-radius: 18px;
+    background-color: #3c828b;
+    color: white;
+    height:45px;
+    width: auto;
+    margin-left: 280px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
